@@ -5,3 +5,6 @@ In this game, 4 different coloured meteorites are moving towards your spaceship 
 ## Requirements
 * python
 * pygame
+
+## Platform
+Currently this game is tested and run successfully on windows only.
